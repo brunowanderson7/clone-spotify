@@ -66,6 +66,13 @@ nav.bg-nav {
 .carousel-control-prev, .carousel-control-next {
     width: 5%;
 }
+.carousel-control-next:hover {
+    color: rgb(0, 132, 255);
+}
+.carousel-control-prev:hover {
+    color: rgb(0, 132, 255);
+}
+
 
 .icom-tam {
     font-size: 3em;
